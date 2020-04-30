@@ -32,7 +32,7 @@ cd into the directory and run in the Terminal
 
 `$ python matching_1_to_1.py`
 
-![printout](/Users/gc/portfolio/8_matching/png/printout.png)
+<img align="left" src="images/printout.png">
 
 
 
