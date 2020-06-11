@@ -20,7 +20,7 @@ Moreover, you can generalize the code to any matching problem with two-sided par
 
 Lastly, I've incorporated scripts to take matching results, transfer them into a schedule format, and then also optimize for any conflicts. 
 
-Here's a [presentation](/Users/gc/portfolio/8_matching/overview.pdf)  to familiarise yourself with the setup with an example of a one-to-one example (using your favourite cast members of Friends). Special shoutout to [maxhumber](https://github.com/maxhumber) for inspiring this.
+See overview.pdf to familiarise yourself with the setup with an example of a one-to-one example (using your favourite cast members of Friends). Special shoutout to [maxhumber](https://github.com/maxhumber) for inspiring this.
 
 
 
