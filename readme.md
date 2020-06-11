@@ -68,5 +68,3 @@ the output file.
 (Optional) Run this pipeline script to simulate results. It tests the software by calculating the proportion of solutions that were 1) stable and could be transformed into a 2) perfect schedule (i.e. no conflicts). 
 
 With these results, we can understand the edge cases of when Suitors or Suited do not get paired.
-
-#merge
